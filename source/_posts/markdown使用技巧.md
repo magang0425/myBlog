@@ -1,3 +1,7 @@
+# 欢迎使用 Cmd Markdown 编辑阅读器
+
+------
+
 我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Cmd Markdown** 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：
 
 > * 整理知识，学习笔记
@@ -185,5 +189,4 @@ Bob-->Alice: I am good thanks!
 [1]: https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown
 [2]: https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册
 [3]: http://weibo.com/ghosert
-[]: 
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
